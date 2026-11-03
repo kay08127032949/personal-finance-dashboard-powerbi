@@ -29,7 +29,7 @@ Put together: with an equal number of transactions but a far higher average tick
 
 ## Page 2 — Who's Spending?
 
-![Who's spending page](images/page2_who.png)
+![Who's spending page](dashboard-page2.png)
 
 **Spend is close to even by gender:** F 10.1M (46%), M 9.8M (44%), and 2.2M (10%) with no gender recorded. Rather than drop that 10%, it was explicitly labeled `Unknown` and kept visible as its own category — dropping it would have understated total spend across every other chart.
 
