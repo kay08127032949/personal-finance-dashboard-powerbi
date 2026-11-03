@@ -8,7 +8,7 @@ An interactive Power BI dashboard analyzing 50,000 credit card transactions, usi
 
 ## Page 1 — Credit Card Spending Overview
 
-![Spending overview page](images/page1_overview.png)
+![Spending overview page](dashboard-page1.png)
 
 | | |
 |---|---|
